@@ -1,6 +1,6 @@
 using System;
 
-public class HelloWorld
+public class Media
 {
     public static void Main(string[] args)
     {
