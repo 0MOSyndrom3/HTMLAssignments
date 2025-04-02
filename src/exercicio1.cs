@@ -4,7 +4,7 @@ public class Media
 {
     public static void Main(string[] args)
     {
-        float n1, n2, n3, menor;
+        float n1, n2, n3;
         
         Console.WriteLine("Digite o primeiro numero:");
         n1 = Convert.ToSingle(Console.ReadLine());
